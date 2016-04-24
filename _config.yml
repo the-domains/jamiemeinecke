@@ -1,6 +1,6 @@
 name: jamiemeinecke
 favicon: null
-layout_spectrum: 0.6897533820010722
+layout_spectrum: 1
 typography_spectrum: 0.29866155376657844
 title: 'Inside the Brain of a Stone Cold Technical Nerd '
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.034584563691169024
+    - '#010207'
+    - '#809ea5'
+    - '#ccccca'
+    - '#55707b'
+    - '#2d5665'
+  brandStrength: 0.125
   lightness: 0.49495298136025667
   saturation: 0.9461304135620594
   rhythmicContrast: 0.7016819277778268
